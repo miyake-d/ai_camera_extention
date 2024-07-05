@@ -1,5 +1,5 @@
 {
-    "name": "AIカメラ",
+    "name": "AI_Camera",
     "description": "",
     "dependencies": {
         "core": "*",

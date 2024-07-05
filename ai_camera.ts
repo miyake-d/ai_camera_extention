@@ -104,7 +104,7 @@ enum protocolAlgorithm {
     ALGORITHM_TAG_RECOGNITION = 5,
     //%block="物体の分類"
     OBJECTCLASSIFICATION,
-    //%block="QRにんしき (EDUのみ)"
+    //%block="QRコードにんしき (EDUのみ)"
     QRRECOGMITION,
     //%block="バーコードにんしき (EDUのみ)"
     BARCODERECOGNITION,

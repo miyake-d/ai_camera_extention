@@ -7,8 +7,6 @@
         "microphone": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "ai_camera.ts",
         "enums.d.ts",

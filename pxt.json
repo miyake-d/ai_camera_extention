@@ -12,7 +12,8 @@
         "README.md",
         "ai_camera.ts",
         "enums.d.ts",
-        "shims.d.ts"
+        "shims.d.ts",
+        "i2c.cpp"
     ],
     "testFiles": [
         "test.ts"
